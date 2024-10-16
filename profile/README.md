@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+wechaty 是微信机器人
+
 <!--
 
 **Here are some ideas to get you started:**
